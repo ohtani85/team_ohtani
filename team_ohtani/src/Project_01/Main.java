@@ -2,7 +2,7 @@ package Project_01;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("¸ğµÎ ¹İ°©½À´Ï´Ù. ÆÀ ¿ÀÅ¸´ÏÀÇ ½ÃÀÛÀÔ´Ï´Ù.");
-		System.out.println("ÀÌÁø±Ô ÀÓÆ÷Æ® Çª½¬ Ä¿¹Ô Å×½ºÆ® ÀÔ´Ï´Ù");
+		System.out.println("ï¿½ï¿½ï¿½ ï¿½İ°ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. ï¿½ï¿½ ï¿½ï¿½Å¸ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.");
+		System.out.println("ì´ì§„ê·œ ì¸ì½”ë”© í…ŒìŠ¤íŠ¸");
 	}
 }
